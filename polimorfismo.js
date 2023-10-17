@@ -9,10 +9,10 @@ const oso= new Oso();
 const laGemaAlma=new GemaAlma();
 const laGemaTiempo=new GemaTiempo();
 
-laGemaInfinito.poder();
+/* laGemaInfinito.poder();
 laGemaAlma.poder();
 laGemaTiempo.poder();
-
+ */
 
 function usarGema(obj) {
     if (obj instanceof GemaInfinito) {
